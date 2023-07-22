@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module rpgGAME {
+	requires java.desktop;
+}
